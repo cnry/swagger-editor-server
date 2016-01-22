@@ -57,6 +57,6 @@
     "connect": "~3.3.3",
     "open": "0.0.5",
     "serve-static": "~1.7.1",
-    "swagger-editor": "~2.8.1"
+    "swagger-editor": "~2.9.8"
   }
 }
