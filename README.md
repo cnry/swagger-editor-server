@@ -2,7 +2,7 @@
 
 **Install**
 
-    npm install swagger-editor-server --save
+    npm install oanylund/swagger-editor-server --save
 
 <a name="module_swagger-editor-server"></a>
 #swagger-editor-server
