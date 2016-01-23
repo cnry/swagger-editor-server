@@ -26,3 +26,8 @@ gives path for you to insert in browser to live edit of the swagger api file
 ```javascript    editor.edit(swaggerFile, 3000)```
 
 
+
+**Output**
+
+    Swagger editor started.
+    Open browser, paste this URL and start working: http://192.168.0.109:3000/#/edit
