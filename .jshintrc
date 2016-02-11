@@ -20,5 +20,5 @@
     "maxdepth"      : 2,
     "maxcomplexity" : 10,
     "node"          : true,
-    "mocha"         : true
+    "asi"           : true
 }
